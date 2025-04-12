@@ -76,24 +76,24 @@
 
 - Проверка статуса: 
 
-- ![scrin](https://github.com/https://github.com/Evgenii-379/3.4-3.4.md-app-update/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-12%20095212.png)
+- ![scrin](https://github.com/Evgenii-379/3.4-3.4.md-app-update/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-12%20095212.png)
 
 - Обновление nginx до версии 1.20 с минимальным временем простоя и проверка статуса:
 
-- ![scrin](https://github.com/https://github.com/Evgenii-379/3.4-3.4.md-app-update/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-12%20104450.png)
+- ![scrin](https://github.com/Evgenii-379/3.4-3.4.md-app-update/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-12%20104450.png)
 
 - Обновление до версии nginx:1.28 и проверка статуса: 
 
-- ![scrin](https://github.com/https://github.com/Evgenii-379/3.4-3.4.md-app-update/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-12%20110636.png)
+- ![scrin](https://github.com/Evgenii-379/3.4-3.4.md-app-update/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-12%20110636.png)
 Вознкла ошибка при обновлении.
 
 - Откат до предыдущей стабильной версии и проверка отката: 
 
-- ![scrin](https://github.com/https://github.com/Evgenii-379/3.4-3.4.md-app-update/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-12%20110856.png)
+- ![scrin](https://github.com/Evgenii-379/3.4-3.4.md-app-update/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-12%20110856.png)
 
 - Просмотр текущего состояния подов:
 
-- ![scrin](https://github.com/https://github.com/Evgenii-379/3.4-3.4.md-app-update/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-12%20111030.png)
+- ![scrin](https://github.com/Evgenii-379/3.4-3.4.md-app-update/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-12%20111030.png)
 
 
 
